@@ -49,7 +49,7 @@
 * 
 
 ## Screenshot
-[screenshot.jpg]()
+![screenshot.jpg](https://github.com/asad-khilji/tech-blog/blob/main/images/screenshot.jpg)
 
 ## GitHub
 * https://github.com/asad-khilji/tech-blog
