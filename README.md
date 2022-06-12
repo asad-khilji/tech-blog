@@ -46,7 +46,7 @@
 * Handlebars
 
 ## Heroku
-* 
+* https://asad-tech-blog.herokuapp.com/
 
 ## Screenshot
 ![screenshot.jpg](https://github.com/asad-khilji/tech-blog/blob/main/images/screenshot.jpg)
